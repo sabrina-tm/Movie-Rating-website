@@ -1,4 +1,3 @@
-# Movie-Rating-website
 # 🎬 MyMovieDB - Personal Movie Collection Manager
 
 This project is a comprehensive **PHP/MySQL CRUD** (Create, Read, Update, Delete) application developed as part of the Web Programming course at **Istanbul Medipol University**. It allows users to maintain a personal digital library of movies they have watched or plan to watch, featuring a modern dark-themed interface.
